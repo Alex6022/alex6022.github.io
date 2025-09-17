@@ -1,0 +1,13 @@
+title: "Alexander Wieczorek — Digital Materials Chemistry"
+url: "https://alex6022.github.io"
+description: "High-throughput discovery, Bayesian optimization, and lab automation."
+# Use a remote theme to avoid local Ruby setup
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Optional: tidy permalinks
+permalink: /:title/
